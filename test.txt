@@ -1,0 +1,6 @@
+TX 26 
+NC 9
+MD 5
+NY 19
+CA 38 
+Ctrl-D 
